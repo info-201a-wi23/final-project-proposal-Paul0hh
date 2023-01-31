@@ -31,6 +31,13 @@ No more than three sentences that summarize your project. Focus on the very most
 
 2. Related Work  
 
+Citations:
+Hall, S.B. (2020) This is how covid-19 is affecting the music industry, World Economic Forum. Available at: https://www.weforum.org/agenda/2020/05/this-is-how-covid-19-is-affecting-the-music-industry/ (Accessed: January 30, 2023). 
+
+Kellogg, D. (2022) Tragedy and inspiration, New Music USA. Available at: https://newmusicusa.org/nmbx/tragedy-and-inspiration/ (Accessed: January 30, 2023). 
+
+Rea, C. (2010) Listening to classical, pop, and metal music: An investigation of mood, Emporia State Research Studies. Available at: https://esirc.emporia.edu/bitstream/handle/123456789/381/205.1.pdf?sequence=1 (Accessed: January 31, 2023). 
+
 > Describe your topic and related work in this space. You must include 3 citations to related work (URLs to similar work, high quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words)
 
 3. The Dataset
