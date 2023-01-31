@@ -14,7 +14,7 @@ June Hong (junehong@uw.edu), Deborah Kwon (dnkwon@uw.edu), Abigail Setiawan (tse
 Winter 2023
 ## Abstract
 
-Throughout the years, music has changed a lot. From the mid 1950's when rock n roll was popular, to todays rnb and rap, music is an essetnial part of our lives. 
+Throughout the years, music has changed a lot. From the mid 1950's when rock n roll was popular, to today’s rnb and rap, music is an essential part of our lives. Our main question is what has influenced the change of music throughout the years.
 
 No more than three sentences that summarize your project. Focus on the very most important aspects. For example: (1) "Our main question is .... This question is important because .... To address the question, we will ...." (2) "We are concerned with ..., because .... To address this concern, we plan to ...." (3) "Consider that .... This is important because .... Accordingly, we plan to ...."
 
