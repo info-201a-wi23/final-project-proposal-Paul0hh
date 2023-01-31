@@ -27,7 +27,7 @@ No more than three sentences that summarize your project. Focus on the very most
 
 1. Introduction  
 
-> Briefly introduce your project.  Include 3-5 research questions. What motivates the questions? Why are they important? (at least 200 words)
+Music is an essential part of our lives. Whether we are studying, working out, hanging with friends, music is always there. The presence of music helps us when we are sad, motivates us when we’re lazy, and can calm us down. However, today’s popular music genres are not the same as when our grandparents were kids. When our grandparents were kids, they listened to rock n roll in the 1950’s. Nowadays, we listened to all sorts of music with R&B/hip-hop, Latin, rock, pop, and world music accounting for the top five most popular genres. What has influenced all these music changes throughout the years? What rolls do political, sociological, and economical challenges play in the popular music genres throughout the years? When we are sad, we listen to soft music and when we are happy, we listen to upbeat music. Music choice is chosen based off of one’s mood. Could emotions caused by daily life challenges be a player in the changes of popular music genres? It is important to track these trends because over the course of the past century, so much has changed and happened in our world. Tracking music trends can help us analyze what people were feeling at the time and take a peek into what life was like for each century. 
 
 2. Related Work  
 
