@@ -8,7 +8,7 @@ Music Trends Throught the Years, on Spotify
 
 ### Authors
 
-June Hong (junehong@uw.edu), 
+June Hong (junehong@uw.edu), Paul Lam (paul0h@uw.edu),
 ### Date
 
 Winter 2023
