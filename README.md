@@ -4,7 +4,7 @@ Please complete your proposal following the outline below.
 
 ## Project title
 
-Music Trends Throught the Years, on Spotify
+Music Trends Throught the Years
 
 ### Authors
 
