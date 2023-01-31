@@ -5,7 +5,6 @@ Please complete your proposal following the outline below.
 ## Project title
 
 Music Trends Throught the Years, on Spotify
-Throughout the years, music has changed a lot. From the mid 1950's when rock n roll was popular, to todays rnb and rap, music is an essetnial part of our lives. 
 
 ### Authors
 
@@ -14,6 +13,8 @@ June Hong (junehong@uw.edu),
 
 Winter 2023
 ## Abstract
+
+Throughout the years, music has changed a lot. From the mid 1950's when rock n roll was popular, to todays rnb and rap, music is an essetnial part of our lives. 
 
 No more than three sentences that summarize your project. Focus on the very most important aspects. For example: (1) "Our main question is .... This question is important because .... To address the question, we will ...." (2) "We are concerned with ..., because .... To address this concern, we plan to ...." (3) "Consider that .... This is important because .... Accordingly, we plan to ...."
 
