@@ -4,7 +4,7 @@ Please complete your proposal following the outline below.
 
 ## Project title
 
-Give your project a concise, interesting title that summarizes the entirety of your project. (Your title can change on subsequent deliverables.)
+Throughout the years, music has changed a lot. From the mid 1950's when rock n roll was popular, to todays rnb and rap, music is an essetnial part of our lives. 
 
 ### Authors
 
