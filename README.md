@@ -31,10 +31,13 @@ Music is an essential part of our lives. Whether we are studying, working out, h
 
 2. Related Work  
 
+This project will be looking at music trends throughout the years. Music trends can reflect broader events and patterns in society, such as the rise of social media, changing perceptions of the world, political unrest, economical changes, and great tragedies. Listening to music also has a deeply psychological effect, and can impact the listener’s mindset, mood, energy levels, stress levels, and memory. Christopher Rea’s study (2010) focused on the correlation between certain music genres and people’s mood, by recording participants’ moods before and after listening to music genres such as rock, classical, and pop. Stefan Hall’s article (2020) describes the effect of the Covid-19 pandemic on the music industry, such as the increase in broadcasted live performances, the changes in the global music industry’s revenue, and changes in advertising for newly released music. Kamran Ahmed’s article discusses the impact of historical events on the music industry (2022), such as the first ever music academy being built, the Romanticism cultural movement, and the Renaissance. Recording music trends is important because it can reflect broader themes than what meets the eye: oftentimes, changes in music’s genre and style often goes hand in hand with the mindsets of the people listening to the music. This can be caused by the changing world and sentiments as time progresses.
+
 Citations:
+
 Hall, S.B. (2020) This is how covid-19 is affecting the music industry, World Economic Forum. Available at: https://www.weforum.org/agenda/2020/05/this-is-how-covid-19-is-affecting-the-music-industry/ (Accessed: January 30, 2023). 
 
-Kellogg, D. (2022) Tragedy and inspiration, New Music USA. Available at: https://newmusicusa.org/nmbx/tragedy-and-inspiration/ (Accessed: January 30, 2023). 
+Ahmed, K. (2022) Influence of historical events on music, Stage Music Center In Acton and Winchester MA. Stage Music Center In Acton and Winchester MA. Available at: https://stagemusiccenter.com/music-school-blog-winchester-acton-ma/2022/10/1/influence-of-historical-events-on-music (Accessed: January 31, 2023). 
 
 Rea, C. (2010) Listening to classical, pop, and metal music: An investigation of mood, Emporia State Research Studies. Available at: https://esirc.emporia.edu/bitstream/handle/123456789/381/205.1.pdf?sequence=1 (Accessed: January 31, 2023). 
 
