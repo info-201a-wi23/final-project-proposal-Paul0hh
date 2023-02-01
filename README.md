@@ -53,10 +53,11 @@ Rea, C. (2010) Listening to classical, pop, and metal music: An investigation of
 
 4. Implications
 
-> Assuming you answer your research questions, briefly describe the expected or possible implications for technologists, designers, and policymakers. (at least 150 words)
+The results from our project aim to show and analyze the music trends since the 1900s, up until now. The data is important in terms of understanding how music has changed over the years, relative to various decades but also in absolute terms for how different music was in the 1900s versus today in 2023. But also it has potential, deep implications for sociological, cultural, and political reasons. Tied to certain events and eras, it will be interesting to see the changes in music in the eras of the roaring ‘20s, the Great Depression, Civil Rights movement, and the overall clearly defined cultures that surrounded the ‘70s, ‘80s, and ‘90s as decades. Based on the findings, it could help inform the impact of music on the broader culture and possible politics of the time period — as well as help inform and predict (possibly) how trends in music might change in the decades to come.
 
 5. Limitations & Challenges
->What challenges or limitations might you need to address with your project idea more broadly? Briefly discuss. (at least 150 words)
+
+Given that we’re looking at a long span of music reaching back to the 1900s to now, it’s hard to really address the intricacies of the entire range of music people consumed over the years. We’re definitely looking at things with a more broad, top level approach and some trends might be missed. This is something to keep in mind as we look at the data and consider the trends we look at. It’s also very possible that there could be confounding variables that we miss out on when looking at how music has changed over the years. Music and culture can be volatile when it comes to pinpointing reasons for trends. So in general, it’ll be important to keep an attention to detail, and take a look at all the different categories in our dataset, in order to make the most informed observations and analysis about the topic.
 
 Acknowledgements
 > Is there anyone you would like to thank? A librarian who helped you with your research? A Teaching Assistant? A friend who helped you find your data? Say thank you in this section.
