@@ -45,13 +45,26 @@ Rea, C. (2010) Listening to classical, pop, and metal music: An investigation of
 
 3. The Dataset
 
-> Where did you find the data? Please include a link to the data source  
+> Where did you find the data? Please include a link to the data source 
+  https://www.kaggle.com/datasets/musicblogger/spotify-music-data-to-identify-the-moods?resource=download 
+  
 > Who collected the data?  
+  Spotify
+  
 > How was the data collected or generated?  
+  Spotify collected the data of their users that included the songs they were playing, the songs' characteristics, and the users' moods.
+  
 > Why was the data collected?  
->How many observations (rows) are in your data?  
+  The data was collected to analyze how song characteristics affect the mood of listeners.
+  
+> How many observations (rows) are in your data?  
+  686
+  
 > How many features (columns) are in the data?  
-> What, if any, ethical questions or questions of power do you need to consider when working with this data?  
+  19
+  
+> What, if any, ethical questions or questions of power do you need to consider when working with this data? 
+  
 > What are possible limitations or problems with this data?   (at least 200 words)
 
 4. Implications
