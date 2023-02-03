@@ -14,14 +14,11 @@ June Hong (junehong@uw.edu), Deborah Kwon (dnkwon@uw.edu), Abigail Setiawan (tse
 Winter 2023
 ## Abstract
 
-Throughout the years, music has changed a lot. From the mid 1950's when rock n roll was popular, to today’s rnb and rap, music is an essential part of our lives. Our main question is what has influenced the change of music throughout the years.
-
-No more than three sentences that summarize your project. Focus on the very most important aspects. For example: (1) "Our main question is .... This question is important because .... To address the question, we will ...." (2) "We are concerned with ..., because .... To address this concern, we plan to ...." (3) "Consider that .... This is important because .... Accordingly, we plan to ...."
+Our main question is how do music trends reflect patterns in society? This question is important because the music people consume has a deep tie to their opinions and emotions, which can change when large events happen in the world. We are concerned with music trends and how they changed around major world events because it can reflect the mindset that people may have had at the time.
 
 ## Keywords
 
-3-5 keywords that summarize your project.
-(e.g., "Keywords: human physiology; bicycle exercise; Gen Z; times-series data")
+Music trends, user consumption, pop culture.
 
 ## Proposal
 
@@ -41,30 +38,15 @@ Ahmed, K. (2022) Influence of historical events on music, Stage Music Center In 
 
 Rea, C. (2010) Listening to classical, pop, and metal music: An investigation of mood, Emporia State Research Studies. Available at: https://esirc.emporia.edu/bitstream/handle/123456789/381/205.1.pdf?sequence=1 (Accessed: January 31, 2023). 
 
-> Describe your topic and related work in this space. You must include 3 citations to related work (URLs to similar work, high quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words)
-
 3. The Dataset
 
-> Where did you find the data? Please include a link to the data source 
-  https://www.kaggle.com/datasets/musicblogger/spotify-music-data-to-identify-the-moods?resource=download 
-  
+> Where did you find the data? Please include a link to the data source  
 > Who collected the data?  
-  Spotify
-  
 > How was the data collected or generated?  
-  Spotify collected the data of their users that included the songs they were playing, the songs' characteristics, and the users' moods.
-  
 > Why was the data collected?  
-  The data was collected to analyze how song characteristics affect the mood of listeners.
-  
-> How many observations (rows) are in your data?  
-  686
-  
+>How many observations (rows) are in your data?  
 > How many features (columns) are in the data?  
-  19
-  
-> What, if any, ethical questions or questions of power do you need to consider when working with this data? 
-  
+> What, if any, ethical questions or questions of power do you need to consider when working with this data?  
 > What are possible limitations or problems with this data?   (at least 200 words)
 
 4. Implications
