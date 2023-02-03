@@ -56,5 +56,3 @@ The results from our project aim to show and analyze the music trends since the 
 5. Limitations & Challenges
 
 Given that we’re looking at a long span of music reaching back to the 1900s to now, it’s hard to really address the intricacies of the entire range of music people consumed over the years. We’re definitely looking at things with a more broad, top level approach and some trends might be missed. This is something to keep in mind as we look at the data and consider the trends we look at. It’s also very possible that there could be confounding variables that we miss out on when looking at how music has changed over the years. Music and culture can be volatile when it comes to pinpointing reasons for trends. So in general, it’ll be important to keep an attention to detail, and take a look at all the different categories in our dataset, in order to make the most informed observations and analysis about the topic.
-
-Acknowledgements
