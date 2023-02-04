@@ -48,6 +48,8 @@ Rea, C. (2010) Listening to classical, pop, and metal music: An investigation of
 > How many features (columns) are in the data?  
 > What, if any, ethical questions or questions of power do you need to consider when working with this data?  
 > What are possible limitations or problems with this data?   (at least 200 words)
+  In the case of the dataset that we chose, some characteristics in the form of numbers did not include a unit, which could be ambiguous to implicate since some characteristics have multiple units that could be applied, for example is the song length column. Another example is the key column which has numbers from 1-11 as indication of the key the song is played in, which is unclear what the numbers exactly represent in the music. For this reason, this data set could be hard to work with for people with no music knowledge as it does not include a code book or other forms of resources to provide detail on the columns. It is also unstated how and for what purpose the data was generated, so the legitimacy of the dataset is a subject to obscurity. Some of the dates inside the year category also do not have a specific date of release and only mentions the year it was released, which is inconsistent. Some columns in the dataset are also filled with “0” which could mean that those specific characters in the data are “0”, but it could also mean that some data are missing. Finally, the “mood” column in the data has a relatively narrow selection of moods, considering human’s complex emotions.
+
 
 4. Implications
 
